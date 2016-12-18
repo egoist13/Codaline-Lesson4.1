@@ -73,7 +73,7 @@ nav a:last-child:hover {
 
 #intro h2::before,
 #intro h2::after {
-    content: url('images/star.png');
+    content: url('../images/star.png');
     position: relative;
     bottom: 8px;
     margin: 0 16px;
